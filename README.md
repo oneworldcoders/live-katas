@@ -14,3 +14,8 @@
 
 - [Bowling Game Kata](./kata-bowling-game) - [Documentation](https://codingdojo.org/kata/Bowling/)
 - [Watch on YouTube](https://www.youtube.com/watch?v=lFQRP70WIJ8)
+
+## Friday 22nd May, 2020
+
+- [Password strength checker Kata](./kata-password-strength-checker) - [Documentation](https://github.com/xpepper/PasswordStrengthChecker/blob/master/README.md)
+- [Watch on YouTube](https://www.youtube.com/watch?v=niE6YQIzrAI)
