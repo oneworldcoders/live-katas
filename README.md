@@ -23,3 +23,7 @@
 ## Friday 20th March, 2020
 
 - [Run length encoding Kata](./kata-run-length-encoding) - [Description](./kata-run-length-encoding/README.md)
+
+## Friday 13th March, 2020
+
+- [Sum of multiples Kata](./kata-sum-of-multiples) - [Description](./kata-sum-of-multiples/README.md)
