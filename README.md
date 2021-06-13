@@ -25,6 +25,11 @@
 - [Password strength checker Kata](./kata-password-strength-checker) - [Description](https://github.com/xpepper/PasswordStrengthChecker/blob/master/README.md)
 - [Watch on YouTube](https://www.youtube.com/watch?v=niE6YQIzrAI)
 
+## Friday 17th April, 2020
+
+- [Video store Kata](./kata-video-store)
+- [Watch on YouTube](https://www.youtube.com/watch?v=KtRIml0FTio)
+
 ## Friday 3rd April, 2020
 
 - [Unusual Spending Kata](./kata-unusual-spending) - [Description](https://kata-log.rocks/unusual-spending-kata)
