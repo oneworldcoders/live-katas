@@ -1,7 +1,8 @@
 # Live Code Katas
+
 ## Friday 4th Jun, 2021
 
-- [Leap Year Kata](./kata-leap-years) - [Description](https://codingdojo.org/kata/LeapYears/)
+- [Leap Year Kata](./kata-finding-leap-years) - [Description](https://codingdojo.org/kata/LeapYears/)
 - [Watch on YouTube](https://youtu.be/LCg9zUbJdTM)
 
 ## Friday 28th May, 2021
@@ -13,6 +14,11 @@
 
 - [Bowling Game Kata](./kata-bowling-game) - [Description](https://codingdojo.org/kata/Bowling/)
 - [Watch on YouTube](https://www.youtube.com/watch?v=lFQRP70WIJ8)
+
+## Friday 5th June, 2020
+
+- [School roster Kata](./kata-school-roster)
+- [Watch on Youtube](https://www.youtube.com/watch?v=iRnrt6028xI)
 
 ## Friday 22nd May, 2020
 
