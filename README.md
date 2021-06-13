@@ -10,6 +10,11 @@
 - [Bowling Game Kata](./bowling-game) - [Description](https://codingdojo.org/kata/Bowling/)
 - [Watch on YouTube](https://www.youtube.com/watch?v=WuceDldIaZY)
 
+## Friday 28th August, 2020
+
+- [Bob Kata](./kata-bob) - [Description](./kata-bob/README.md)
+- [Watch on YouTube](https://www.youtube.com/watch?v=emV-II3F6G8)
+
 ## Friday 21st August, 2020
 
 - [Bowling Game Kata](./kata-bowling-game) - [Description](https://codingdojo.org/kata/Bowling/)
