@@ -27,7 +27,7 @@
 
 ## Friday 22nd May, 2020
 
-- [Password strength checker Kata](./kata-password-strength-checker) - [Description](https://github.com/xpepper/PasswordStrengthChecker/blob/master/README.md)
+- [Password strength checker Kata](./kata-password-strength-checker) - [Description](./kata-password-strength-checker/README.md)
 - [Watch on YouTube](https://www.youtube.com/watch?v=niE6YQIzrAI)
 
 ## Friday 17th April, 2020
