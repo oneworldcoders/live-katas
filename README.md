@@ -13,7 +13,7 @@
 ## Friday 21st May, 2021
 
 - [Game of Nim Kata](./game-of-nim) - [Description](https://codingdojo.org/kata/Nim/)
-- [watch on YouTube](https://www.youtube.com/watch?v=zeuIQuGruDU)
+- [Watch on YouTube](https://www.youtube.com/watch?v=zeuIQuGruDU)
 
 ## Friday 28th August, 2020
 
