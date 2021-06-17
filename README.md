@@ -10,6 +10,11 @@
 - [Bowling Game Kata](./bowling-game) - [Description](https://codingdojo.org/kata/Bowling/)
 - [Watch on YouTube](https://www.youtube.com/watch?v=WuceDldIaZY)
 
+## Friday 21st May, 2021
+
+- [Game of Nim Kata](./game-of-nim) - [Description](https://codingdojo.org/kata/Nim/)
+- [watch on YouTube](https://www.youtube.com/watch?v=zeuIQuGruDU)
+
 ## Friday 28th August, 2020
 
 - [Bob Kata](./kata-bob) - [Description](./kata-bob/README.md)
