@@ -1,5 +1,8 @@
 # Live Code Katas
 
+## Friday 11th Jun, 2021
+
+- [Fizzbuzz kata](./fizz_buzz_kata) - [Description](https://codingdojo.org/kata/FizzBuzz/)
 ## Friday 4th Jun, 2021
 
 - [Leap Year Kata](./kata-finding-leap-years) - [Description](https://codingdojo.org/kata/LeapYears/)
