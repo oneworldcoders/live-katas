@@ -1,5 +1,8 @@
 # Live Code Katas
 
+## Friday 16th July, 2021
+
+- [Code cracker kata](./code_cracker) - [Description](https://codingdojo.org/kata/CodeCracker/)
 ## Friday 11th Jun, 2021
 
 - [Fizzbuzz kata](./fizz_buzz_kata) - [Description](https://codingdojo.org/kata/FizzBuzz/)
