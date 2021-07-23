@@ -3,6 +3,12 @@
 ## Friday 16th July, 2021
 
 - [Code cracker kata](./code_cracker) - [Description](https://codingdojo.org/kata/CodeCracker/)
+
+## Friday 9th July, 2021
+
+- [Palindrome kata](./kata-palindrome-kata) - [Description](https://www.codewars.com/kata/57a5015d72292ddeb8000b31)
+- [Watch on YouTube](https://youtu.be/fuVhMS9Y-Xc)
+
 ## Friday 11th Jun, 2021
 
 - [Fizzbuzz kata](./fizz_buzz_kata) - [Description](https://codingdojo.org/kata/FizzBuzz/)
