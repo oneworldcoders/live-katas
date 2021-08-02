@@ -1,5 +1,10 @@
 # Live Code Katas
 
+## Friday 30th July, 2021
+
+- [Game of Life Kata](./game-of-life) - [Description](https://codingdojo.org/kata/GameOfLife/)
+- [Watch on YouTube](https://www.youtube.com/watch?v=9wMfsIsM4jM&t=2853s)
+
 ## Friday 16th July, 2021
 
 - [Code cracker kata](./code_cracker) - [Description](https://codingdojo.org/kata/CodeCracker/)
@@ -8,6 +13,11 @@
 
 - [Palindrome kata](./kata-palindrome-kata) - [Description](https://www.codewars.com/kata/57a5015d72292ddeb8000b31)
 - [Watch on YouTube](https://youtu.be/fuVhMS9Y-Xc)
+
+## Friday 25th June, 2021
+
+- [Sieve of Eratosthenes Kata](./sieve-of-eratosthenes) - [Description](https://www.codewars.com/kata/577ade22311a24f0b70004a3)
+- [Watch on YouTube](https://www.youtube.com/watch?v=K5KwgZKlZd4&t=4s)
 
 ## Friday 11th Jun, 2021
 
