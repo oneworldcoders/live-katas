@@ -4,12 +4,6 @@ class PasswordStrengthChecker
   end
 
   def is_valid?(password)
-    valid = true
-    @rules.each do |rule|
-      valid = false unless rule.validate?(password)
-    end
-    valid
+    @rules.all? { |rule| rule.validate?(password) }
   end
 end
-
-
