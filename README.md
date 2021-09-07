@@ -1,5 +1,10 @@
 # Live Code Katas
 
+## Friday, 3rd September, 2021
+
+- [Password Strength checker](./password-strength-checker) - [Description](https://agileforall.com/the-password-strength-checker-design-kata-part-1/)
+- [Watch on YouTube](https://www.youtube.com/watch?v=OfrbYOZdxRw&t=2769s)
+
 ## Friday 30th July, 2021
 
 - [Game of Life Kata](./game-of-life) - [Description](https://codingdojo.org/kata/GameOfLife/)
