@@ -5,6 +5,11 @@
 - [Password Strength checker](./password-strength-checker) - [Description](https://agileforall.com/the-password-strength-checker-design-kata-part-1/)
 - [Watch on YouTube](https://www.youtube.com/watch?v=OfrbYOZdxRw&t=2769s)
 
+## Friday, 13th August, 2021
+
+- [Coin Changer Kata](./kata_coin_changer) - [Description](https://medium.com/@mglover/a-simple-kata-in-ruby-59748e86e2be)
+- [Watch on YouTube](https://youtu.be/OuKMOQmWmno)
+
 ## Friday 30th July, 2021
 
 - [Game of Life Kata](./game-of-life) - [Description](https://codingdojo.org/kata/GameOfLife/)
