@@ -1,0 +1,3 @@
+preferrably use variables
+avoid testing without failing testing
+ruby profiler to check time complexity test with extremes
