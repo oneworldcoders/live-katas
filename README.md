@@ -7,7 +7,7 @@
 
 ## Friday, 13th August, 2021
 
-- [Coin Changer Kata](./kata_coin_changer) - [Description](https://medium.com/@mglover/a-simple-kata-in-ruby-59748e86e2be)
+- [Coin Changer Kata](./kata-coin-changer) - [Description](https://medium.com/@mglover/a-simple-kata-in-ruby-59748e86e2be)
 - [Watch on YouTube](https://youtu.be/OuKMOQmWmno)
 
 ## Friday 30th July, 2021
