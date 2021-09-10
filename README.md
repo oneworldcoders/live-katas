@@ -1,5 +1,10 @@
 # Live Code Katas
 
+## Friday 6th July, 2021
+
+- [Piglatin](./kata-piglatin/README.md) - [Description](./kata-piglatin/README.md)
+- [Watch on YouTube](https://www.youtube.com/watch?v=Tu8N0fVxupY&ab_channel=OneWorldCoders)
+
 ## Friday 30th July, 2021
 
 - [Game of Life Kata](./game-of-life) - [Description](https://codingdojo.org/kata/GameOfLife/)
@@ -22,6 +27,7 @@
 ## Friday 11th Jun, 2021
 
 - [Fizzbuzz kata](./fizz_buzz_kata) - [Description](https://codingdojo.org/kata/FizzBuzz/)
+
 ## Friday 4th Jun, 2021
 
 - [Leap Year Kata](./kata-finding-leap-years) - [Description](https://codingdojo.org/kata/LeapYears/)
