@@ -1,9 +1,14 @@
 # Live Code Katas
 
-## Friday 6th July, 2021
+## Friday, 3rd September, 2021
 
-- [Piglatin](./kata-piglatin/README.md) - [Description](./kata-piglatin/README.md)
-- [Watch on YouTube](https://www.youtube.com/watch?v=Tu8N0fVxupY&ab_channel=OneWorldCoders)
+- [Password Strength checker](./password-strength-checker) - [Description](https://agileforall.com/the-password-strength-checker-design-kata-part-1/)
+- [Watch on YouTube](https://www.youtube.com/watch?v=OfrbYOZdxRw&t=2769s)
+
+## Friday, 13th August, 2021
+
+- [Coin Changer Kata](./kata-coin-changer) - [Description](https://medium.com/@mglover/a-simple-kata-in-ruby-59748e86e2be)
+- [Watch on YouTube](https://youtu.be/OuKMOQmWmno)
 
 ## Friday 30th July, 2021
 
@@ -18,6 +23,11 @@
 
 - [Palindrome kata](./kata-palindrome-kata) - [Description](https://www.codewars.com/kata/57a5015d72292ddeb8000b31)
 - [Watch on YouTube](https://youtu.be/fuVhMS9Y-Xc)
+
+## Friday 6th July, 2021
+
+- [Piglatin](./kata-piglatin/README.md) - [Description](./kata-piglatin/README.md)
+- [Watch on YouTube](https://www.youtube.com/watch?v=Tu8N0fVxupY&ab_channel=OneWorldCoders)
 
 ## Friday 25th June, 2021
 
