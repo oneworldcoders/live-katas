@@ -1,5 +1,9 @@
 # Live Code Katas
 
+## Friday, 10th September, 2021
+
+- [String calculator](./kata_string_calculator) - [Description](./kata_string_calculator/README.md)
+
 ## Friday, 3rd September, 2021
 
 - [Password Strength checker](./password-strength-checker) - [Description](https://agileforall.com/the-password-strength-checker-design-kata-part-1/)
