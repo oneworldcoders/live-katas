@@ -1,5 +1,10 @@
 # Live Code Katas
 
+# Friday, 17th September, 2021
+
+- [Tennis Kata](./kata-tennis) - [Description](https://codingdojo.org/kata/Tennis/)
+- [Watch on Youtube](https://youtu.be/H0z_NhQIOHQ)
+
 ## Friday, 10th September, 2021
 
 - [String calculator](./kata_string_calculator) - [Description](./kata_string_calculator/README.md)

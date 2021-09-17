@@ -1,0 +1,4 @@
+use subject other than describe
+Use dependancy injection for tests
+Score variable placed in a better place
+adhere to tdd
