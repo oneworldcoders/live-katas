@@ -4,6 +4,7 @@
 
 - [Tennis Kata](./kata-tennis) - [Description](https://codingdojo.org/kata/Tennis/)
 - [Watch on Youtube](https://youtu.be/H0z_NhQIOHQ)
+- [Watch Kata Stream](https://youtu.be/8RYERFzx2lA)
 
 ## Friday, 10th September, 2021
 
