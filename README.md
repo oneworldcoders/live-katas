@@ -2,7 +2,7 @@
 
 ## Friday 1st Oct, 2021
 
-- [String Calculator](./string-calculator-kata) - [Description](hhttps://codingdojo.org/kata/StringCalculator/)
+- [String Calculator](./string-calculator-kata) - [Description](https://codingdojo.org/kata/StringCalculator/)
 
 # Friday, 17th September, 2021
 
