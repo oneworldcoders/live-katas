@@ -1,5 +1,9 @@
 # Live Code Katas
 
+## Friday 1st Oct, 2021
+
+- [String Calculator](./string-calculator-kata) - [Description](hhttps://codingdojo.org/kata/StringCalculator/)
+
 # Friday, 17th September, 2021
 
 - [Tennis Kata](./kata-tennis) - [Description](https://codingdojo.org/kata/Tennis/)
