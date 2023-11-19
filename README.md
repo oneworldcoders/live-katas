@@ -1,5 +1,9 @@
 # Live Code Katas
 
+## Thursday 17th November, 2023
+
+- [Is Prime Number](./kata-isprime) - [Description](https://en.wikipedia.org/wiki/Prime_number)
+
 ## Friday 1st Oct, 2021
 
 - [String Calculator](./string-calculator-kata) - [Description](https://codingdojo.org/kata/StringCalculator/)
