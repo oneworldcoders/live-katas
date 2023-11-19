@@ -1,0 +1,14 @@
+{
+  "name": "kata-isprime",
+  "version": "1.0.0",
+  "description": "",
+  "main": "isprime.test.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "Olive Nives Nameere",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}
