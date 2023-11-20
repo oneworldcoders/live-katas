@@ -3,6 +3,8 @@
 ## Thursday 17th November, 2023
 
 - [Is Prime Number](./kata-isprime) - [Description](https://en.wikipedia.org/wiki/Prime_number)
+- [Zoom recording](https://us02web.zoom.us/rec/share/g-5WOgamx-NNbbFw-UU1W82dUybZY46-d5B8ZODEi3POEo-xMQqHZ_XMptuyPbCQ.ftWruYi96ABr6GBR)
+- Passcode: J8S1HEL$
 
 ## Friday 1st Oct, 2021
 
